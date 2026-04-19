@@ -1,9 +1,20 @@
-As part of my clinical informatics studies, I designed and developed an innovative Clinical Decision Support (CDS) tool, the PreDM CDS Tool, to enhance diabetic screening and early intervention efforts. This cutting-edge solution addresses the rising prevalence of diabetes mellitus and associated complications.
-The project commenced with an extensive literature review, where I analyzed the latest evidence-based guidelines, best practices, and risk assessment models for diabetic screening. This evaluation enabled me to identify strengths and limitations of existing approaches, laying the groundwork for a robust and comprehensive CDS tool.
-Leveraging this evidence base, I conceptualized a state-of-the-art CDS tool that integrates seamlessly with electronic health record (EHR) systems. The PreDM CDS Tool offers automated risk assessment capabilities, harnessing patient data to stratify individuals based on their likelihood of developing diabetes. It also provides personalized screening recommendations aligned with clinical guidelines, empowering healthcare providers to make informed, evidence-based decisions.
+# Pre-Diabetes Clinical Decision Support (CDS) Tool — Design Proposal
 
-Recognizing the importance of patient engagement, the tool incorporates tailored educational resources for healthcare providers and patients. These resources enhance understanding of diabetes risk factors, promote lifestyle modifications, and encourage adherence to recommended screening protocols.
+## Overview
+Designed a Clinical Decision Support tool for early screening and identification of pre-diabetes patients in a clinical setting.
 
-Acknowledging health disparities, I dedicated attention to addressing health equity considerations. The PreDM CDS Tool incorporates culturally sensitive educational materials, multilingual support, and strategies to address social determinants of health that may influence diabetes risk and management, promoting equitable access to preventive care and early intervention.
-As part of my clinical informatics studies, I designed and developed an innovative Clinical Decision Support (CDS) tool, the PreDM CDS Tool, to enhance diabetic screening and early intervention efforts. This cutting-edge solution addresses the rising prevalence of diabetes mellitus and associated complications. The project commenced with an extensive literature review, where I analyzed the latest evidence-based guidelines, best practices, and risk assessment models for diabetic screening. This evaluation enabled me to identify strengths and limitations of existing approaches, laying the groundwork for a robust and comprehensive CDS tool. Leveraging this evidence base, I conceptualized a state-of-the-art CDS tool that integrates seamlessly with electronic health record (EHR) systems. The PreDM CDS Tool offers automated risk assessment capabilities, harnessing patient data to stratify individuals based on their likelihood of developing diabetes. It also provides personalized screening recommendations aligned with clinical guidelines, empowering healthcare providers to make informed, evidence-based decisions. Recognizing the importance of patient engagement, the tool incorporates tailored educational resources for healthcare providers and patients. These resources enhance understanding of diabetes risk factors, promote lifestyle modifications, and encourage adherence to recommended screening protocols. Acknowledging health disparities, I dedicated attention to addressing health equity considerations. The PreDM CDS Tool incorporates culturally sensitive educational materials, multilingual support, and strategies to address social determinants of health that may influence diabetes risk and management, promoting equitable access to preventive care and early intervention.
-Skills: Evidence-Based Practice (EBP) · Clinical Decision Support System Design · Data Analysis and Risk Stratification · Health Equity and Cultural Competence · Stakeholder Collaboration and Communication 
+## Objectives
+- Propose a CDS tool to assist clinicians in identifying at-risk patients
+- Define tool requirements, workflows, and design specifications
+- Align with clinical guidelines for diabetes prevention
+
+## Tools & Skills Used
+- Clinical Decision Support (CDS) design principles
+- Health informatics frameworks
+- Evidence-based clinical guidelines (ADA standards)
+
+## Key Findings
+Developed a structured proposal outlining system design, user interface flow, and integration with EHR systems.
+
+## Author
+Kaliprasad | MS Health Informatics
